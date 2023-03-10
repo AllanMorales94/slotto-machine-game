@@ -12,7 +12,8 @@
   const spinCost = 25;
 
   /*----- state variables -----*/
-  
+  let credits = startingCredits;
+  let reel1, reel2, reel3;
   /*----- cached elements  -----*/
   const creditsEl = document.querySelector('#credits');
   const betEl = document.querySelector('#bet');
@@ -30,31 +31,57 @@
   init()
 
   function init() {
-    
+    credits = startingCredits;
+    render();
   }
 
 
   function render() {
-    
+  creditsEl.innerHTML = credits;
+  betEl.innerHTML = spinCost;
+  reel1El.textContent = reel1;
+  reel2El.textContent = reel2;
+  reel3El.textContent = reel3;
+  messageEl.innerHTML = '';
   }
   
   
   function initSpin() {
-   
+    if (credits < spinCost) {
+      messageEl.innerHTML = '😅 Oh no! You have no credits left, HIT replay to play ▶️ again ! ';
+      return;
   }
   
- 
+  credits -= spinCost;
+  const result = spinReels();
+  const payout = calculatePayout(result);
+  credits += payout;
+  render();
+
+  if (credits <= 0) {
+    messageEl.innerHTML = 'Game Over! You have no credits left 😣';
+  } else if (payout > 0) {
+    messageEl.innerHTML = `You won ${payout} credits!`;
+  } else {
+    messageEl.innerHTML = 'Want to play 🎮▶️👾? Gotta pay 🤑!';
+  }
+}
+
   function handleReset() {
-   
+    credits = startingCredits;
+    render();
   }
 
 
   function spinReels() {
-   
+    reel1 = symbols[Math.floor(Math.random() * symbols.length)];
+    reel2 = symbols[Math.floor(Math.random() * symbols.length)];
+    reel3 = symbols[Math.floor(Math.random() * symbols.length)];
+    return reel1 + reel2 + reel3;
   }
   
 
-  function calculatePayout() {
-    
+  function calculatePayout(result) {
+    return payouts[result] || 0;
   }
   
