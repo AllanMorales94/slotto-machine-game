@@ -23,7 +23,38 @@
   
 
   /*----- event listeners -----*/
-
+  document.querySelector('#bet').addEventListener('click', initSpin);
+  document.querySelector('#replay').addEventListener('click', handleReset);
 
   /*----- functions -----*/
+  init()
 
+  function init() {
+    
+  }
+
+
+  function render() {
+    
+  }
+  
+  
+  function initSpin() {
+   
+  }
+  
+ 
+  function handleReset() {
+   
+  }
+
+
+  function spinReels() {
+   
+  }
+  
+
+  function calculatePayout() {
+    
+  }
+  
