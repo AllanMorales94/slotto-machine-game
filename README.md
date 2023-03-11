@@ -1,15 +1,15 @@
 # SLotto
 
 ### Technologies Used:
-https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/Apple-MacBook_Pro_2012-999999?style=for-the-badge&logo=apple&logoColor=white
-https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white
-https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white
-https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white
-https://img.shields.io/badge/Google%20Chrome-4285F4.svg?style=for-the-badge&logo=Google-Chrome&logoColor=white
+![alt text]https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+![alt text]https://img.shields.io/badge/Apple-MacBook_Pro_2012-999999?style=for-the-badge&logo=apple&logoColor=white
+![alt text]https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white
+![alt text]https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white
+![alt text]https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+![alt text]https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+![alt text]https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+![alt text]https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white
+![alt text]https://img.shields.io/badge/Google%20Chrome-4285F4.svg?style=for-the-badge&logo=Google-Chrome&logoColor=white
 
 ### Live-Demo:
 
@@ -31,6 +31,6 @@ This is a browser based game made with HTML , CSS , and JavaScript. A slot machi
 Looking forward to add some audio to the game.
 
 ### Credit due:
-https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white
+![alt text]https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white
 Thank you Thapa Technical on youtube for helping me with my css animation.
 https://www.youtube.com/watch?v=RYuB2n6cwCY
