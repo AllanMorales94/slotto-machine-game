@@ -1,7 +1,18 @@
 # SLotto
 
 ### Technologies Used:
-
+![Github All Releases](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Github All Releases](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white
+)
+<br>
+![Github All Releases](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+)
+![Github All Releases](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+)
+![Github All Releases](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+)
+![Github All Releases](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white
+)
 
 ### Live-Demo:
 
@@ -23,6 +34,6 @@ This is a browser based game made with HTML , CSS , and JavaScript. A slot machi
 Looking forward to add some audio to the game.
 
 ### Credit due:
-![alt text]https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white
+![Github All Releases](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) <br>
 Thank you Thapa Technical on youtube for helping me with my css animation.
-https://www.youtube.com/watch?v=RYuB2n6cwCY
+
