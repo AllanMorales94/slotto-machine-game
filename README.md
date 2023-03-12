@@ -33,6 +33,7 @@ This is a browser based game made with HTML , CSS , and JavaScript. A slot machi
 
 ### Next Steps: 
 Looking forward to add some audio to the game.
+Making my game responsive on common platforms.
 
 ### Credit due:
 ![Github All Releases](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) <br>
