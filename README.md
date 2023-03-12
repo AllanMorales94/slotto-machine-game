@@ -33,6 +33,7 @@ This is a browser based game made with HTML , CSS , and JavaScript. A slot machi
 
 ### Next Steps: 
 Looking forward to add some audio to the game.
+<br>
 Making my game responsive on common platforms.
 
 ### Credit due:
