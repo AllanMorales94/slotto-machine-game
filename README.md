@@ -15,6 +15,7 @@
 )
 
 ### Live-Demo:
+https://allanmorales94.github.io/slotto-machine-game/
 
 ### Description:
 This is a browser based game made with HTML , CSS , and JavaScript. A slot machine game named "SLotto" with a background animation that resembles the colors of a sunset. Very simple to play and interact with. User/Player starts with 1000 credits, to play the game you simply click on the "25" button. This button is an automatic bet/wager/spin mechanic that deducts 25 credits from your initial line of credit and provides you with your spin outcome payout. The payout table will be provided in further sentence. User/Player can decide to replay when ever he wants by clicking on the "replay" button. User/Player can continue to play up until he runs out of credits and he can't spin anymore, or up until he simply gets bored.
