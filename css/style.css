@@ -1,4 +1,5 @@
-* {
+body{
+  height: 100vh;
   box-sizing: border-box;
   }
 
@@ -79,4 +80,13 @@ border-radius: 10px;
 
 button:hover {
   background-color: dodgerblue;
+}
+
+@media (max-width: 500px) {
+  body{
+
+  }
+  main{
+
+  }
 }
